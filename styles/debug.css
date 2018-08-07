@@ -1,0 +1,15 @@
+body * {
+      color:                  hsla(210, 100%, 100%, 0.88) !important;
+      background:             hsla(120, 100%, 25%, 0.3) !important;
+      outline:  0.25rem solid hsla(210, 100%, 100%, 0.50) !important;
+}
+#banner {
+    background:url(banner.jpg);
+    width:100%;
+    min-height:189px;
+}
+.debug-center {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
